@@ -1,0 +1,8 @@
+.periodic-table {
+  display: grid;
+  -ms-display: grid;
+  grid-gap: 1px;
+  grid-template-columns: auto repeat(auto-fill, 1fr);
+  justify-content: center;
+  padding-top: 10px;
+}
