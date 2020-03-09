@@ -11,7 +11,7 @@ This project uses guidlines provided by BetaoAB company for their interview test
 
 ## How to use it?
 
-Just clone the project on a folder and run 
+Just clone the project into a folder and run 
 ```
 npm i
 ```
